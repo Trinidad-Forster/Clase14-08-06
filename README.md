@@ -8,10 +8,10 @@ Objetivo general --> Guardar, presentar y dar a conocer mis proyectos, de forma 
 Usuarios
 
 - Menos probable:
-  Quién: Fabiola, 30 años, 
-  Demografía:
-  Comportamientos:
-  Necesidades y Objetivos:
+  Quién: Fabiola, 30 años, artista 3D.
+  Demografía: Trabaja de forma autónoma realizando modelados 3D y trabajos artísticos de este tipo a pedido. Continuamente está puliendo sus habilidades en cuanto a sofwares de modelado 3D y obteniendo inspiración artísticas por diversos medios.
+  Comportamientos: Suele realizar bocetos analogos en los que comienza a plasmar su inspiración, luego procede a crear los modelados 3D si lo considera necesario. Sabe ocupar programas de modelado lo suficientemente bien como para poder realizar sus proyectos artísticos.
+  Necesidades y Objetivos: A pesar de poseer las ideas y la sabiduría en cuanto a programas
 
 - Promedio: 
   Quién: Pedro, 35 años, 
